@@ -1,29 +1,12 @@
-# 特别提醒
-
-之前水文章（ https://51.ruyo.net/18261.html ）的时候同步这个仓库。微信早就被封了。
-
-本仓库的内容谨慎尝试！！！！！！！！！！
-
-
-
 # wechatbot
 > 最近chatGPT异常火爆，本项目可以将个人微信化身GPT机器人，
 > 项目基于[openwechat](https://github.com/eatmoreapple/openwechat) 开发。
-
-[![Release](https://img.shields.io/github/v/release/869413421/wechatbot.svg?style=flat-square)](https://github.com/869413421/wechatbot/releases/tag/v1.0.1)
-![Github stars](https://img.shields.io/github/stars/869413421/wechatbot.svg)
-![Forks](https://img.shields.io/github/forks/869413421/wechatbot.svg?style=flat-square)
-
 ### 目前实现了以下功能
  * 提问增加上下文，更接近官网效果 
  * 机器人群聊@回复
  * 机器人私聊回复
  * 好友添加自动通过
- 
-# 使用前提
-> * ~~目前只支持在windows上运行因为需要弹窗扫码登录微信，后续会支持linux~~   已支持
-> * 有openai账号，并且创建好api_key，注册事项可以参考[此文章](https://juejin.cn/post/7173447848292253704) 。
-> * 微信必须实名认证。
+
 
 # 注意事项
 > * 项目仅供娱乐，滥用可能有微信封禁的风险，请勿用于商业用途。
